@@ -1,6 +1,6 @@
 # Git & GitHub 101 — Atölye Projesi
 
-Bu repo, [TOPLULUK ADI] Git & GitHub 101 eğitiminin uygulamalı atölye projesidir.
+Bu repo, İYTE Yazılım Topluluğu Git & GitHub 101 eğitiminin uygulamalı atölye projesidir.
 
 Eğitim sırasında her katılımcı bu repoya kendi tanıtım dosyasını ekleyerek
 Git ve GitHub'ın temel akışını bizzat deneyimleyecektir.
