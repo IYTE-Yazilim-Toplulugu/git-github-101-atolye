@@ -1,3 +1,3 @@
 # Ekip Sloganı
 
-Buraya harika bir slogan gelecek.
+Kod yazarak dünyayı değiştirelim!
