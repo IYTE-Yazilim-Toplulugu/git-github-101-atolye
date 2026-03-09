@@ -5,5 +5,5 @@
 **Favori teknoloji veya araç:** Game Boy
 
 ## Bu eğitimden öğrendiğim en önemli şey
-Git kullanmayı öğrenmekç
+Git kullanmayı öğrenmek.
 (Eğitim sırasında veya sonrasında doldurun!)
